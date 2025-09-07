@@ -19,9 +19,12 @@
 
 ---
 
-### 🛠️ Tecnologias Mais usadas no momento:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonVinicius&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📊 Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonVinicius&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### 🏆 Projetos em Destaque
 
 
