@@ -22,7 +22,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Snake animation](https://github.com/LeonVinicius/LeonVinicius/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🏆 Projetos em Destaque
