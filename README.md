@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Bacharelado em Sistemas de Informação (BSI)**.
 🚀 Buscando minha primeira oportunidade na área de desenvolvimento de software.
-💡 Apaixonado por tecnologia e focado em aprender desenvolvimento **Java** e **Web**.
+📚 Interessado por tecnologia e focado em aprender desenvolvimento **Java** e **Web**.
 
 ---
 
