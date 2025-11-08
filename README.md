@@ -28,9 +28,12 @@
 ### 🏆 Projetos em Destaque
 
 
-**1. Seletor de Personagens Interativo**
-* Projeto web desenvolvido para praticar HTML, CSS e JavaScript.
-* Funcionalidade principal: Manipulação do DOM para trocar informações na tela com base na seleção do usuário.
+**1. Sistema de Gestão de Estoque (StockLanches)**
+* Projeto desenvolvido em grupo para a faculdade.
+* Aplicação web completa desenvolvida com Java e Spring Boot.
+* Front-end: Interface moderna e responsiva criada com Thymeleaf, HTML5 e CSS3 puro.
+* Back-end: Arquitetura MVC, autenticação de usuários, e CRUD completo de produtos.
+* Funcionalidades: Dashboard interativo, cadastro/login de usuários, controle de estoque e histórico de transações.
 
 **2. Jogo em Allegro**
 * Projeto desenvolvido em grupo para a faculdade.
