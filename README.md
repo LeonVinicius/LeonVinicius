@@ -22,7 +22,17 @@
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Analytics
+
+<div style="display: flex; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonVinicius&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonVinicius&theme=tokyonight"/>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonVinicius&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 
 ---
 ### 🏆 Projetos em Destaque
