@@ -7,7 +7,7 @@
 🎓 Estudante de **Bacharelado em Sistemas de Informação (BSI)**.  
 👨‍💻 Buscando minha primeira oportunidade como Desenvolvedor de Software.  
 📚 Foco atual: Domínio do ecossistema **Java**, **Spring Boot**, **Python** e arquiteturas **Web**.  
-💡 Entusiasta da tecnologia como ferramenta de transformação para pequenos negócios.
+
 
 
 ---
